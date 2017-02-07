@@ -1,5 +1,7 @@
 # Pubmed mining for occupational lung disease topics
 
+## Introduction
+
 * Keeping abreast of the literature is important and hard.
 
 * Important because you can't do research, or clinical care, well without knowing what's known. Hard because the literature is large and imperfectly indexed.
