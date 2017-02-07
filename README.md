@@ -17,10 +17,10 @@
 
  ## Why not use an API?
 
- * Need to learn to code. Probably will be a universal skill but is not yet.
+* Need to learn to code. Probably will be a universal skill but is not yet.
 
  ## So what have you done?
  
- * I will (briefly) talk you through my initial pubmed mining experiments (full documented code online here: https://github.com/drcjar/litsearch/blob/master/litsearch.ipynb), take questions, and hear any feedback you have.
+* I will (briefly) talk you through my initial pubmed mining experiments (full documented code online here: https://github.com/drcjar/litsearch/blob/master/litsearch.ipynb), take questions, and hear any feedback you have.
 
- * I'd also really like to learn about the techniques you use to research occupational lung disease topics and keep abreast of the literature.
+* I'd also really like to learn about the techniques you use to research occupational lung disease topics and keep abreast of the literature.
